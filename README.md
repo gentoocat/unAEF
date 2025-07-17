@@ -33,7 +33,7 @@ Run the program from your terminal, providing the input and output file paths.
 unaef -i encrypted.aef -o decrypted.bin
 ```
 
-After decrypting use [7-Zip archivator](https://www.7-zip.org) to unpack decrypted archive.
+After decrypting use [7-Zip archiver](https://www.7-zip.org) to unpack decrypted archive.
 
 ## 📜 License
 
