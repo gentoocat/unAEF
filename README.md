@@ -1,6 +1,6 @@
 # unAEF
 
-A simple, fast, and cross-platform command-line tool for decrypting `.aef` files.
+A simple, fast, and cross-platform command-line tool for decrypting EvotorOS Over-The-Air `.aef` files.
 
 ### 📋 Prerequisites
 
