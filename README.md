@@ -33,6 +33,8 @@ Run the program from your terminal, providing the input and output file paths.
 unaef -i encrypted.aef -o decrypted.bin
 ```
 
+After decrypting use [7-Zip archivator](https://www.7-zip.org) to unpack decrypted archive.
+
 ## 📜 License
 
 This project is licensed under the Apache 2.0 License
@@ -42,3 +44,4 @@ This project is licensed under the Apache 2.0 License
 ## Note to AOSP devs
 
 Зачем было воровать ее у Атола? Во время реверс-инженеринга я много раз встречался с ru.atol. Вы просто взяли их механизм обновления и к себе забрали.
+
