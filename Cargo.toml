@@ -1,0 +1,10 @@
+[package]
+name = "unaef"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes = "0.8.3"
+cbc = { version = "0.1.2", features = ["alloc"] }
+clap = { version = "4.4.18", features = ["derive"] }
+thiserror = "1.0.56" # Для удобного создания типов ошибок
